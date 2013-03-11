@@ -1,0 +1,9 @@
+Package: com.tylerflowers.quickredeem
+Name: Quickredeem
+Depends: firmware (>= 5.0), com.saurik.substrate.safemode, com.chpwn.weeloader
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Simple Notification Widget to allow for quicker redeeming of promocodes.
+Maintainer: Tyler Flowers
+Author: Tyler Flowers
+Section: Addons (NotificationCenter)
